@@ -20,6 +20,10 @@ a:hover {
 
 li {
   display: inline;
+  color: white;
+  font-family: "Montserrat";
+  font-weight: bold;
+  padding: 30px;
 }
 
 body {
@@ -33,4 +37,11 @@ h1 {
   font-weight: bold;
   padding: 30px;
   display: inline;
+}
+td {
+  font-size: 25px;
+  color: white;
+  font-family: "Montserrat";
+  font-weight: bold;
+  padding: 30px;
 }

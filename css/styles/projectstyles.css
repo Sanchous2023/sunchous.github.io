@@ -1,0 +1,17 @@
+a {
+  font-size: 40px;
+  padding: 20px;
+  text-decoration: none;
+  font-family: "Montserrat";
+  font-weight: bold;
+  color: white;
+}
+
+a:hover {
+  color: rgb(160, 95, 138);
+  text-decoration: none;
+}
+
+body {
+  background-color: black;
+}
